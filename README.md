@@ -1,4 +1,4 @@
-# SPA trafficlight emulator
+# Web App control panel
 ---
 One part of the web application - sales:
 
